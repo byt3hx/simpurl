@@ -9,7 +9,7 @@ cat urls.txt | simpurl
 
 ### Installation
 ```
-go install https://github.com/channyein1337/simpurl@latest
+go install github.com/channyein1337/simpurl@latest
 ```
 
 
